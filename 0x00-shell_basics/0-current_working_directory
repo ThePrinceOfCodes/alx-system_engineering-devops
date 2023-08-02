@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "200~/tmp/correction/5534986686853918466340111045190441945074_5/205/494709/0x00-shell_basics"
+echo "$PWD"
